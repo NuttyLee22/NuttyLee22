@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Nutty Lee
 
 🔭 I’m currently working as Cloud Engineer at Oracle <br/>
-🤖 I’m learning about IA and Machine Learning Tools 
+🤖 I’m learning about AI and Machine Learning Tools 
   ##
 <!--
 **NuttyLee22/NuttyLee22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
