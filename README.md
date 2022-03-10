@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nutty Lee
+### Hi there 👋 I'm Nucci
 
 🔭 I’m currently working as Cloud Engineer at Oracle <br/>
 🤖 I’m learning about AI and Machine Learning Tools 
