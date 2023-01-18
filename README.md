@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Nutty-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nutty-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Nutty-Postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Nutty-SqlServer" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg">
   
   <img align="right" alt="Nutty-pic" height="150" style="border-radius:60px;" src="https://user-images.githubusercontent.com/68132085/157533661-ee854c99-f320-44ee-86b3-6d3648e17374.png">
 
