@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttylee22&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  ##
+  ## Technologies
 
 <div style="display: inline_block"><br>
   <div align="center">
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket" title="Bitbucket"/></code>
 </div>
 
-  ##
+  ## Social Media
 
  <div align="center"> 
   <a href = "mailto:giovanna.nuccim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
