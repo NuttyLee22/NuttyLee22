@@ -40,11 +40,11 @@ Here are some ideas to get you started:
     <img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
   </div>
 
-  <img align="right" alt="Nutty-pic" height="150" style="border-radius:60px;" src="https://user-images.githubusercontent.com/68132085/157533661-ee854c99-f320-44ee-86b3-6d3648e17374.png">
+  <!--<img align="right" alt="Nutty-pic" height="150" style="border-radius:60px;" src="https://user-images.githubusercontent.com/68132085/157533661-ee854c99-f320-44ee-86b3-6d3648e17374.png">-->
 
   ##
 
  <div> 
   <a href = "mailto:giovanna.nuccim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!--<a href="https://www.linkedin.com/in/giovanna-nucci-matos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
+  <a href="https://www.linkedin.com/in/giovanna-nucci-matos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
