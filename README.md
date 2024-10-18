@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nucci
 
-🔭 I’m currently working as Software Engineer <br/>
+🔭 I’m currently working as Analyst Engineer <br/>
 🤖 I’m learning about AI and Machine Learning Tools 
   ##
 <!--
